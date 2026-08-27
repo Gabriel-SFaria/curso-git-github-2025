@@ -1,17 +1,8 @@
 ls -> lista arquivos
 cd -> move entre diretórios
 pwd -> mostra diretório atual
+cat -> exibe conteúdo do arquivo
+rm -> remove arquivo ou diretório
 
 
-Git Bash comandos:
-
-ls  = Me apresenta todos os itens que estão naquele diretório;
-
-cd = me muda de diretório quando faço cd desktop/ eu abro a área de trabalho;
-
-pwd = me mostra o caminho absoluto de onde estou; 
-
-ls -a = Me mostra arquivos ocultos, no caso . e .., se eu fizer cd .. eu vou para uma pasta acima da que eu estava, então por exemplo faço pwd e vejo que estou em /c/Users/supor/Desktop, seu fizer cd .. eu vou para /c/users/supor
-
-git init . -> inicia um repositório vazio Obs: ele não vai aparecer na pasta, mas se você executar o comando ls -a ele vai aparecer como oculto
 
